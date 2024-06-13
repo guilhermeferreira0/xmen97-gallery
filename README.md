@@ -23,6 +23,7 @@ npm install
 ## Para iniciar o servidor de desenvolvimento, execute:
 
 npm start
+
 Abra http://localhost:3000 para visualizar no navegador. A página irá recarregar automaticamente se você fizer alterações no código.
 
 ### Recursos
