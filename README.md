@@ -1,4 +1,4 @@
-### X-Men 97 Character Gallery
+### X-Men 97 Gallery
 
 ## Descrição
 
